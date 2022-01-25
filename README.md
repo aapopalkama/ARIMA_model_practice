@@ -3,9 +3,10 @@ Machine learning practice
 
 Stock price forecast:
 
-#The program was run on January 25, 2022 before the stock exchange opened.
+The program was run on January 25, 2022 before the stock exchange opened.
 
 I chose NVDIA stock:
+
 Result:
 * Day 1: 234.039100
 * Day 2: 235.585918
