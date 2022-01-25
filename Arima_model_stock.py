@@ -58,7 +58,7 @@ hist = [x for x in data1]
 day = 1
 for i in forecast:
     inv = predict(hist,i,days)
-    print("Day %d: %f" % (day, inv))
+    print("Day %d: %f" % (day, inv)) # Print which day and price prediction
     hist.append(predict)
     day += 1
 
