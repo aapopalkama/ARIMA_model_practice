@@ -5,6 +5,9 @@ Stock price forecast:
 
 The program was run on January 25, 2022 before the stock exchange opened.
 
+January 24, 2022 NVDA closing price:
+* 233,72 $
+
 I chose NVDIA stock:
 
 Predictions:
