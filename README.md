@@ -1,2 +1,4 @@
 # ARIMA_model_practice
-Machine learning practice / experiment
+Machine learning practice
+
+Stock price forecast
