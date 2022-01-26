@@ -24,5 +24,6 @@ Arima problems:
 
 * ARIMA expects data that is either not seasonal or has the seasonal component removed.
 
+# SARIMA_model_practice
 
 
