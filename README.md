@@ -26,4 +26,6 @@ Arima problems:
 
 # SARIMA_model_practice
 
+* Sarima is an extension of ARIMA that support univariate time series data with a seasonal component.
+
 
