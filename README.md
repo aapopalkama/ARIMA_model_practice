@@ -18,5 +18,11 @@ Predictions:
 * Day 7: 247.036344 $
 
 
+Arima problems:
+
+* A problem with ARIMA is that it does not support seasonal data. That is a time series with a repeating cycle.
+
+* ARIMA expects data that is either not seasonal or has the seasonal component removed.
+
 
 
