@@ -19,14 +19,16 @@ Arima problems:
 
 # SARIMA_model_practice
 
+* flight_data.ipynb
+
 * Sarima is an extension of ARIMA that support univariate time series data with a seasonal component.
 
-SARIMA(p,d,q)x(P,D,Q)m
+SARIMAX(p,d,q)x(P,D,Q)m
 
 Where:
 * p and seasonal P: indicate the number of AR terms (lags of the stationary series)
 * d and seasonal D: indicate differencing that must be done to stationary series
 * q and seasonal Q: indicate the number of MA terms (lags of the forecast errors)
-* lag: indicates the seasonal length in the data
+* lag(m): indicates the seasonal length in the data
 
 
