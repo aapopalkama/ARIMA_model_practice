@@ -17,11 +17,11 @@ Arima problems:
 
 * ARIMA expects data that is either not seasonal or has the seasonal component removed.
 
-# SARIMA_model_practice
+# SARIMAX practice
 
 * flight_data.ipynb
 
-* Sarima is an extension of ARIMA that support univariate time series data with a seasonal component.
+* SarimaX is an extension of ARIMA that support univariate time series data with a seasonal component.
 
 SARIMAX(p,d,q)x(P,D,Q)m
 
